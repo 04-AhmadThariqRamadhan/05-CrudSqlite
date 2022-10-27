@@ -1,12 +1,11 @@
-﻿# 05-CrudSqlite
-# Hasil
-![Screenshot](images/gambar2.jpeg)
-![Screenshot](images/gambar1.jpeg)
-![Screenshot](images/gambar3.jpeg)
-![Screenshot](images/gambar4.jpeg)
-![Screenshot](images/gambar5.jpeg)
-![Screenshot](images/gambar6.jpeg)
-##### Komang Gede Narariya Suputra
-##### 2041720225
-##### TI3B
-##### 16
+# sqlite-android-java
+
+Nama : Ahmad Thariq Ramadhan
+Kelas : TI-3B
+NIM : 2041720200
+![Screenshot](img/1.jpeg)
+![Screenshot](img/2.jpeg)
+![Screenshot](img/3.jpeg)
+![Screenshot](img/4.jpeg)
+![Screenshot](img/5.jpeg)
+![Screenshot](img/6.jpeg)
